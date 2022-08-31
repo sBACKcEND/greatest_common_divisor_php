@@ -3,7 +3,7 @@ Find the greatest common divisor (GCD) of a given two integers
 
 ---
 
-Link:
+Link: https://sbackcend.github.io/greatest_common_divisor_php/
 
 ---
 
